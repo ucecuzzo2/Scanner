@@ -1,0 +1,35 @@
+
+Fill this out and submitIt_LK this file with the executable.
+
+Group#:16
+
+Must have divided the work as specified.
+If the member did not fully contribute to the assigned part, do not list his/her name!
+
+1.State who did what by indicating: 
+  Member A tasks (syntax error functions) - who: Gerald, Chris, Brian
+  Member B tasks (match and next_token)- who: Gerald, Chris, Brian
+  Member C tasks (main()) who:  Gerald, Chris, Brian
+  Who wrote which parser functions? 
+  functions             who
+  ----------------      ----------
+  Gerald, Chris, Brian worked and checked each other's functions for errors and changed them if needed to.
+
+2.  Who came to the meeting to test the program together?
+    Gerald, Chris, Brian
+
+3.  You have included all the required comments? 
+    (Grammer: and Done by: ) Yes
+
+4.  The parser produced correct output for 
+    all 6 test cases?
+      Yes
+
+5.  What extra credit feature did you include?
+    If it is error correction, did you make sure errors.txt
+    got produced?
+    [ You may still do EC later ]
+      No EC
+        
+checkIt_LK in 24 hours and immediately correct and resubmit.     
+
